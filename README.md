@@ -1,6 +1,6 @@
 # vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
+Это проект на vue js, в котором можно посмотреть прогноз погоды в любом городе. Просто необходимо в поиск ввести нужный вам город, и сразу же будет доступна информация о погоде. 
 
 ## Recommended IDE Setup
 
@@ -10,7 +10,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Загрузка проекта
 
 ```sh
 npm install
@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Лицензия
+[MIT](https://opensource.org/license/mit/) Copyright (c) 2024 - forever Azer5555
